@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run tic-tac-toe:ng",
+    "startTime": "2023-11-20T02:00:17.904Z",
+    "endTime": "2023-11-20T02:00:32.819Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "tic-tac-toe:ng",
+      "target": "ng",
+      "projectName": "tic-tac-toe",
+      "hash": "10042860147319846336",
+      "startTime": "2023-11-20T02:00:17.947Z",
+      "endTime": "2023-11-20T02:00:32.816Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
